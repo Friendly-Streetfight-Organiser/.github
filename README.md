@@ -1,8 +1,8 @@
 # 🥊 Friendly Streetfight Organiser
 
 For coders who’ve stared at one too many semicolons and decided violence might be the answer. Born from the ashes of burnout and built on caffeine-fueled rage, this entirely fictional organization offers a safe, virtual space to vent your daily frustrations through friendly, metaphorical streetfights.
-Currently operated by one extremely tired developer and a pervert lizard that’s been stalking him from the ceiling for the past two weeks. Ambitious? Absolutely. Functional? Not even close. Therapeutic? You bet.
-Pull requests welcome. Baseball bats optional.
+Currently operated by one sleep-deprived developer and a pervert lizard 🦎 that’s been stalking him from the ceiling for the past couple weeks. Ambitious? Absolutely. Functional? Not even close. Therapeutic? You bet.
+Pull requests welcome. Baseball bats and Brass knuckles optional.
 
 
 **Welcome, weary code warrior.**  
