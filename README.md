@@ -1,5 +1,8 @@
 # 🥊 Friendly Streetfight Organiser
 
+![ChatGPT Image Apr 27, 2025, 04_07_18 PM](https://github.com/user-attachments/assets/087682c8-1f1b-4ed6-b6a6-8302acc33d3c)
+
+
 For coders who’ve stared at one too many semicolons and decided violence might be the answer. Born from the ashes of burnout and built on caffeine-fueled rage, this entirely fictional organization offers a safe, virtual space to vent your daily frustrations through friendly, metaphorical streetfights.
 Currently operated by one sleep-deprived developer and a pervert lizard 🦎 that’s been stalking him from the ceiling for the past couple weeks. Ambitious? Absolutely. Functional? Not even close. Therapeutic? You bet.
 Pull requests welcome. Baseball bats and Brass knuckles optional.
