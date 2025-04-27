@@ -5,7 +5,7 @@
 
 For coders who’ve stared at one too many semicolons and decided violence might be the answer. Born from the ashes of burnout and built on caffeine-fueled rage, this entirely fictional organization offers a safe, virtual space to vent your daily frustrations through friendly, metaphorical streetfights.
 Currently operated by one sleep-deprived developer and a pervert lizard 🦎 that’s been stalking him from the ceiling for the past couple weeks. Ambitious? Absolutely. Functional? Not even close. Therapeutic? You bet.
-Pull requests welcome. Baseball bats and Brass knuckles optional.
+Pull requests welcome. Baseball bats and Brass knuckles optional. (Rest In Peace Tyler Durden 🌹)
 
 
 **Welcome, weary code warrior.**  
@@ -30,8 +30,8 @@ If you’ve ever wanted to hurl your laptop out the window after seeing `undefin
 
 | Name         | Role                         | Status   |
 |--------------|-------------------------------|----------|
-| You (the founder) | Chief Overthinker & Keyboard Warrior | Sleepless |
-| Ceiling Lizard | Assistant Fight Coordinator | Chill AF |
+| cole319 (Co-founder) | Chief Overthinker & Keyboard Warrior | Sleepless |
+| Ceiling Lizard (Assistant Co-founder) | Assistant Fight Coordinator | Chill AF |
 
 > *Recruitment ongoing. Lizards preferred but not required.*
 
@@ -52,7 +52,7 @@ If you’ve ever wanted to hurl your laptop out the window after seeing `undefin
 
 - Officially crown the lizard as CTO
 - Build the world’s first Fight-Driven-Development (FDD) framework
-- Definitely NOT get banned from GitHub for questionable activity
+- Definitely NOT get banned from GitHub because of questionable activities
 
 ---
 
